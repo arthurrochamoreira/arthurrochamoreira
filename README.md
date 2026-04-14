@@ -1,3 +1,17 @@
-![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurrochamoreira&show_icons=true&theme=synthwave&hide_border=true)
+import Developer from "arthurrochamoreira";
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurrochamoreira&layout=compact&theme=synthwave&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+class AboutMe extends Developer {
+  name       = "Arthur Moreira";
+  area       = "Software Engineering";
+  university = "Universidade de Brasília (UnB)";
+  location   = "Brasília, DF — Brazil";
+}
+
+class Skills extends Developer {
+  languages    = ["Python", "SQL", "Java", "C++", "Assembly", "JavaScript"];
+  libraries    = ["Scapy", "Pandas", "Matplotlib", "Seaborn", "NumPy", "Requests", "FastAPI", "JUnit", "Hibernate"];
+  tools        = ["Power BI", "Tableau", "Excel", "Git", "Docker", "MkDocs"];
+  frameworks   = ["Angular", "Spring Boot"];
+  docs         = ["Markdown", "LaTeX"];
+  studying     = ["Data structures", "Query optimization"];
+}
