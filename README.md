@@ -20,6 +20,19 @@ class Skills extends Developer {
 
 ---
 
+
+<div align="center">
+<a href="https://github.com/arthurrochamoreira">
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=arthurrochamoreira&theme=radical&hide_border=true&include_all_commits=true&show_icons=true&hide=contribs" />
+</a>
+
+<a href="https://github.com/arthurrochamoreira">
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurrochamoreira&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&card_width=320" />
+</a>
+</div>
+
+---
+
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-E6F1FB?style=flat&logo=python&logoColor=0C447C)
