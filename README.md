@@ -39,30 +39,30 @@ class Skills extends Developer {
 
 ### **Languages**
 
-![Python](https://img.shields.io/badge/Python-011627?style=for-the-badge&logo=python&logoColor=3776AB)
-![SQL](https://img.shields.io/badge/SQL-011627?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![Java](https://img.shields.io/badge/Java-011627?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-![C++](https://img.shields.io/badge/C++-011627?style=for-the-badge&logo=cplusplus&logoColor=00599C)
-![JavaScript](https://img.shields.io/badge/JavaScript-011627?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-1E2D3D?style=for-the-badge&logo=python&logoColor=3776AB)
+![SQL](https://img.shields.io/badge/SQL-1E2D3D?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Java](https://img.shields.io/badge/Java-1E2D3D?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![C++](https://img.shields.io/badge/C++-1E2D3D?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![JavaScript](https://img.shields.io/badge/JavaScript-1E2D3D?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ### **Frameworks & Libraries**
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-011627?style=for-the-badge&logo=springboot&logoColor=6DB33F)
-![Angular](https://img.shields.io/badge/Angular-011627?style=for-the-badge&logo=angular&logoColor=DD0031)
-![FastAPI](https://img.shields.io/badge/FastAPI-011627?style=for-the-badge&logo=fastapi&logoColor=05998B)
-![Pandas](https://img.shields.io/badge/Pandas-011627?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-011627?style=for-the-badge&logo=numpy&logoColor=4DABCF)
-![Scapy](https://img.shields.io/badge/Scapy-011627?style=for-the-badge&logo=python&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-011627?style=for-the-badge&logo=junit5&logoColor=25A162)
-![Hibernate](https://img.shields.io/badge/Hibernate-011627?style=for-the-badge&logo=hibernate&logoColor=BCAE79)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-1E2D3D?style=for-the-badge&logo=springboot&logoColor=6DB33F)
+![Angular](https://img.shields.io/badge/Angular-1E2D3D?style=for-the-badge&logo=angular&logoColor=DD0031)
+![FastAPI](https://img.shields.io/badge/FastAPI-1E2D3D?style=for-the-badge&logo=fastapi&logoColor=05998B)
+![Pandas](https://img.shields.io/badge/Pandas-1E2D3D?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-1E2D3D?style=for-the-badge&logo=numpy&logoColor=4DABCF)
+![Scapy](https://img.shields.io/badge/Scapy-1E2D3D?style=for-the-badge&logo=python&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-1E2D3D?style=for-the-badge&logo=junit5&logoColor=25A162)
+![Hibernate](https://img.shields.io/badge/Hibernate-1E2D3D?style=for-the-badge&logo=hibernate&logoColor=BCAE79)
 
 ### **Tools & Documentation**
 
-![Docker](https://img.shields.io/badge/Docker-011627?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Git](https://img.shields.io/badge/Git-011627?style=for-the-badge&logo=git&logoColor=F05032)
-![Power BI](https://img.shields.io/badge/Power_BI-011627?style=for-the-badge&logo=powerbi&logoColor=F2C811)
-![Markdown](https://img.shields.io/badge/Markdown-011627?style=for-the-badge&logo=markdown&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-011627?style=for-the-badge&logo=latex&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1E2D3D?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-1E2D3D?style=for-the-badge&logo=git&logoColor=F05032)
+![Power BI](https://img.shields.io/badge/Power_BI-1E2D3D?style=for-the-badge&logo=powerbi&logoColor=F2C811)
+![Markdown](https://img.shields.io/badge/Markdown-1E2D3D?style=for-the-badge&logo=markdown&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-1E2D3D?style=for-the-badge&logo=latex&logoColor=white)
 
 ### **Currently studying**
 
