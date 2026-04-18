@@ -19,16 +19,22 @@ class Skills extends Developer {
 ```
 
 ---
-
-
 <div align="center">
-<a href="https://github.com/arthurrochamoreira">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=arthurrochamoreira&theme=radical&hide_border=true&include_all_commits=true&show_icons=true&hide=contribs" />
-</a>
-
-<a href="https://github.com/arthurrochamoreira">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurrochamoreira&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&card_width=320" />
-</a>
+  <table border="0">
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=arthurrochamoreira&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&line_height=30" alt="GitHub Stats" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurrochamoreira&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=arthurrochamoreira&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
