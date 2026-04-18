@@ -1,60 +1,64 @@
+```typescript
+import Developer from "arthurrochamoreira";
 
----
+class AboutMe extends Developer {
+  name       = "Arthur Rocha";
+  area       = "Software Engineering";
+  university = "Universidade de Brasília (UnB)";
+  location   = "Brasília, DF — Brazil";
+}
+
+class Skills extends Developer {
+  languages  = ["Python", "SQL", "Java", "C++", "Assembly", "JavaScript"];
+  libraries  = ["Scapy", "Pandas", "Matplotlib", "Seaborn", "NumPy", "Requests", "FastAPI", "JUnit", "Hibernate"];
+  tools      = ["Power BI", "Tableau", "Excel", "Git", "Docker", "MkDocs"];
+  frameworks = ["Angular", "Spring Boot"];
+  docs       = ["Markdown", "LaTeX"];
+  studying   = ["Data structures", "Query optimization"];
+}
+```
+
+
 <div align="center">
-  <table border="0" width="85%">
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=arthurrochamoreira&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&line_height=30" alt="GitHub Stats" width="100%" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurrochamoreira&layout=compact&theme=tokyonight&hide_border=true" height="165px" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=arthurrochamoreira&theme=tokyonight&hide_border=true" height="165px" />
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/arthurrochamoreira">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=arthurrochamoreira&theme=nightowl&hide_border=true&include_all_commits=true&show_icons=true&hide=contribs" />
+  </a>
+  <a href="https://github.com/arthurrochamoreira">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurrochamoreira&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&card_width=320" />
+  </a>
+  
+  <br>
+
+  <a href="https://github.com/arthurrochamoreira">
+    <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=arthurrochamoreira&theme=nightowl&hide_border=true" />
+  </a>
 </div>
 
 ---
 
-**Languages**
+### **Languages**
 
-![Python](https://img.shields.io/badge/Python-E6F1FB?style=flat&logo=python&logoColor=0C447C)
-![SQL](https://img.shields.io/badge/SQL-E6F1FB?style=flat&logo=postgresql&logoColor=0C447C)
-![Java](https://img.shields.io/badge/Java-E6F1FB?style=flat&logo=openjdk&logoColor=0C447C)
-![C++](https://img.shields.io/badge/C++-E6F1FB?style=flat&logo=cplusplus&logoColor=0C447C)
-![Assembly](https://img.shields.io/badge/Assembly-E6F1FB?style=flat&logoColor=0C447C)
-![JavaScript](https://img.shields.io/badge/JavaScript-E6F1FB?style=flat&logo=javascript&logoColor=0C447C)
+![Python](https://img.shields.io/badge/Python-011627?style=flat&logo=python&logoColor=82AAFF)
+![SQL](https://img.shields.io/badge/SQL-011627?style=flat&logo=postgresql&logoColor=82AAFF)
+![Java](https://img.shields.io/badge/Java-011627?style=flat&logo=openjdk&logoColor=82AAFF)
+![C++](https://img.shields.io/badge/C++-011627?style=flat&logo=cplusplus&logoColor=82AAFF)
+![Assembly](https://img.shields.io/badge/Assembly-011627?style=flat&logoColor=82AAFF)
+![JavaScript](https://img.shields.io/badge/JavaScript-011627?style=flat&logo=javascript&logoColor=82AAFF)
 
-**Frameworks & Libraries**
+### **Frameworks & Libraries**
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-E1F5EE?style=flat&logo=springboot&logoColor=085041)
-![Angular](https://img.shields.io/badge/Angular-E1F5EE?style=flat&logo=angular&logoColor=085041)
-![FastAPI](https://img.shields.io/badge/FastAPI-E1F5EE?style=flat&logo=fastapi&logoColor=085041)
-![Pandas](https://img.shields.io/badge/Pandas-E1F5EE?style=flat&logo=pandas&logoColor=085041)
-![NumPy](https://img.shields.io/badge/NumPy-E1F5EE?style=flat&logo=numpy&logoColor=085041)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-E1F5EE?style=flat&logoColor=085041)
-![Seaborn](https://img.shields.io/badge/Seaborn-E1F5EE?style=flat&logoColor=085041)
-![Scapy](https://img.shields.io/badge/Scapy-E1F5EE?style=flat&logoColor=085041)
-![Requests](https://img.shields.io/badge/Requests-E1F5EE?style=flat&logoColor=085041)
-![JUnit](https://img.shields.io/badge/JUnit-E1F5EE?style=flat&logo=junit5&logoColor=085041)
-![Hibernate](https://img.shields.io/badge/Hibernate-E1F5EE?style=flat&logo=hibernate&logoColor=085041)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0B2942?style=flat&logo=springboot&logoColor=ADDB67)
+![Angular](https://img.shields.io/badge/Angular-0B2942?style=flat&logo=angular&logoColor=ADDB67)
+![FastAPI](https://img.shields.io/badge/FastAPI-0B2942?style=flat&logo=fastapi&logoColor=ADDB67)
+![Pandas](https://img.shields.io/badge/Pandas-0B2942?style=flat&logo=pandas&logoColor=ADDB67)
+![NumPy](https://img.shields.io/badge/NumPy-0B2942?style=flat&logo=numpy&logoColor=ADDB67)
+![Scapy](https://img.shields.io/badge/Scapy-0B2942?style=flat&logoColor=ADDB67)
+![JUnit](https://img.shields.io/badge/JUnit-0B2942?style=flat&logo=junit5&logoColor=ADDB67)
 
-**Tools**
+### **Tools & Documentation**
 
-![Power BI](https://img.shields.io/badge/Power_BI-EEEDFE?style=flat&logo=powerbi&logoColor=3C3489)
-![Tableau](https://img.shields.io/badge/Tableau-EEEDFE?style=flat&logo=tableau&logoColor=3C3489)
-![Docker](https://img.shields.io/badge/Docker-EEEDFE?style=flat&logo=docker&logoColor=3C3489)
-![Git](https://img.shields.io/badge/Git-EEEDFE?style=flat&logo=git&logoColor=3C3489)
-![MkDocs](https://img.shields.io/badge/MkDocs-EEEDFE?style=flat&logo=materialformkdocs&logoColor=3C3489)
-![Excel](https://img.shields.io/badge/Excel-EEEDFE?style=flat&logo=microsoftexcel&logoColor=3C3489)
-![Markdown](https://img.shields.io/badge/Markdown-EEEDFE?style=flat&logo=markdown&logoColor=3C3489)
-![LaTeX](https://img.shields.io/badge/LaTeX-EEEDFE?style=flat&logo=latex&logoColor=3C3489)
-
-**Currently studying**
-
-![Data structures](https://img.shields.io/badge/Data_structures-FAEEDA?style=flat&logoColor=633806)
-![Query optimization](https://img.shields.io/badge/Query_optimization-FAEEDA?style=flat&logoColor=633806)
+![Docker](https://img.shields.io/badge/Docker-112630?style=flat&logo=docker&logoColor=ECC48D)
+![Git](https://img.shields.io/badge/Git-112630?style=flat&logo=git&logoColor=ECC48D)
+![MkDocs](https://img.shields.io/badge/MkDocs-112630?style=flat&logo=materialformkdocs&logoColor=ECC48D)
+![Markdown](https://img.shields.io/badge/Markdown-112630?style=flat&logo=markdown&logoColor=ECC48D)
+![LaTeX](https://img.shields.io/badge/LaTeX-112630?style=flat&logo=latex&logoColor=ECC48D)
