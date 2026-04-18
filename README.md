@@ -50,7 +50,7 @@ class Skills extends Developer {
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-011627?style=for-the-badge&logo=springboot&logoColor=6DB33F)
 ![Angular](https://img.shields.io/badge/Angular-011627?style=for-the-badge&logo=angular&logoColor=DD0031)
 ![FastAPI](https://img.shields.io/badge/FastAPI-011627?style=for-the-badge&logo=fastapi&logoColor=05998B)
-![Pandas](https://img.shields.io/badge/Pandas-011627?style=for-the-badge&logo=pandas&logoColor=150458)
+![Pandas](https://img.shields.io/badge/Pandas-011627?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-011627?style=for-the-badge&logo=numpy&logoColor=4DABCF)
 ![Scapy](https://img.shields.io/badge/Scapy-011627?style=for-the-badge&logo=python&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-011627?style=for-the-badge&logo=junit5&logoColor=25A162)
