@@ -18,6 +18,7 @@ class Skills extends Developer {
 }
 ```
 
+---
 
 <div align="center">
   <a href="https://github.com/arthurrochamoreira">
@@ -38,27 +39,32 @@ class Skills extends Developer {
 
 ### **Languages**
 
-![Python](https://img.shields.io/badge/Python-011627?style=flat&logo=python&logoColor=82AAFF)
-![SQL](https://img.shields.io/badge/SQL-011627?style=flat&logo=postgresql&logoColor=82AAFF)
-![Java](https://img.shields.io/badge/Java-011627?style=flat&logo=openjdk&logoColor=82AAFF)
-![C++](https://img.shields.io/badge/C++-011627?style=flat&logo=cplusplus&logoColor=82AAFF)
-![Assembly](https://img.shields.io/badge/Assembly-011627?style=flat&logoColor=82AAFF)
-![JavaScript](https://img.shields.io/badge/JavaScript-011627?style=flat&logo=javascript&logoColor=82AAFF)
+![Python](https://img.shields.io/badge/Python-011627?style=for-the-badge&logo=python&logoColor=3776AB)
+![SQL](https://img.shields.io/badge/SQL-011627?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Java](https://img.shields.io/badge/Java-011627?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![C++](https://img.shields.io/badge/C++-011627?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![JavaScript](https://img.shields.io/badge/JavaScript-011627?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ### **Frameworks & Libraries**
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-0B2942?style=flat&logo=springboot&logoColor=ADDB67)
-![Angular](https://img.shields.io/badge/Angular-0B2942?style=flat&logo=angular&logoColor=ADDB67)
-![FastAPI](https://img.shields.io/badge/FastAPI-0B2942?style=flat&logo=fastapi&logoColor=ADDB67)
-![Pandas](https://img.shields.io/badge/Pandas-0B2942?style=flat&logo=pandas&logoColor=ADDB67)
-![NumPy](https://img.shields.io/badge/NumPy-0B2942?style=flat&logo=numpy&logoColor=ADDB67)
-![Scapy](https://img.shields.io/badge/Scapy-0B2942?style=flat&logoColor=ADDB67)
-![JUnit](https://img.shields.io/badge/JUnit-0B2942?style=flat&logo=junit5&logoColor=ADDB67)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-011627?style=for-the-badge&logo=springboot&logoColor=6DB33F)
+![Angular](https://img.shields.io/badge/Angular-011627?style=for-the-badge&logo=angular&logoColor=DD0031)
+![FastAPI](https://img.shields.io/badge/FastAPI-011627?style=for-the-badge&logo=fastapi&logoColor=05998B)
+![Pandas](https://img.shields.io/badge/Pandas-011627?style=for-the-badge&logo=pandas&logoColor=150458)
+![NumPy](https://img.shields.io/badge/NumPy-011627?style=for-the-badge&logo=numpy&logoColor=4DABCF)
+![Scapy](https://img.shields.io/badge/Scapy-011627?style=for-the-badge&logo=python&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-011627?style=for-the-badge&logo=junit5&logoColor=25A162)
+![Hibernate](https://img.shields.io/badge/Hibernate-011627?style=for-the-badge&logo=hibernate&logoColor=BCAE79)
 
 ### **Tools & Documentation**
 
-![Docker](https://img.shields.io/badge/Docker-112630?style=flat&logo=docker&logoColor=ECC48D)
-![Git](https://img.shields.io/badge/Git-112630?style=flat&logo=git&logoColor=ECC48D)
-![MkDocs](https://img.shields.io/badge/MkDocs-112630?style=flat&logo=materialformkdocs&logoColor=ECC48D)
-![Markdown](https://img.shields.io/badge/Markdown-112630?style=flat&logo=markdown&logoColor=ECC48D)
-![LaTeX](https://img.shields.io/badge/LaTeX-112630?style=flat&logo=latex&logoColor=ECC48D)
+![Docker](https://img.shields.io/badge/Docker-011627?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-011627?style=for-the-badge&logo=git&logoColor=F05032)
+![Power BI](https://img.shields.io/badge/Power_BI-011627?style=for-the-badge&logo=powerbi&logoColor=F2C811)
+![Markdown](https://img.shields.io/badge/Markdown-011627?style=for-the-badge&logo=markdown&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-011627?style=for-the-badge&logo=latex&logoColor=white)
+
+### **Currently studying**
+
+![Data structures](https://img.shields.io/badge/Data_structures-1E2D3D?style=for-the-badge&logoColor=white)
+![Query optimization](https://img.shields.io/badge/Query_optimization-1E2D3D?style=for-the-badge&logoColor=white)
