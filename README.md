@@ -18,6 +18,8 @@ class Skills extends Developer {
 }
 ```
 
+![gif](gif2_readme.gif)
+
 ---
 
 <div align="center">
