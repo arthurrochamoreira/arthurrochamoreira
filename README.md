@@ -5,15 +5,6 @@
 
 <div align="center">
   <a href="https://github.com/arthurrochamoreira">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=arthurrochamoreira&theme=nightowl&hide_border=true&include_all_commits=true&show_icons=true&hide=contribs" />
-  </a>
-  <a href="https://github.com/arthurrochamoreira">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurrochamoreira&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&card_width=320" />
-  </a>
-  
-  <br>
-
-  <a href="https://github.com/arthurrochamoreira">
     <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=arthurrochamoreira&theme=nightowl&hide_border=true" />
   </a>
 </div>
